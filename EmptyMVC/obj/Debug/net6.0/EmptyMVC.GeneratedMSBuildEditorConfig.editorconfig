@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmptyMVC
+build_property.RootNamespace = EmptyMVC
+build_property.ProjectDir = /Users/narmin/Projects/EmptyMVC/EmptyMVC/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/narmin/Projects/EmptyMVC/EmptyMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Category/_CategoryListPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvX0NhdGVnb3J5TGlzdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Computer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcHV0ZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Computer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcHV0ZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Computer/_ComputerListPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tcHV0ZXIvX0NvbXB1dGVyTGlzdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Phone/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGhvbmUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Phone/_PhoneListPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGhvbmUvX1Bob25lTGlzdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvRm9vdGVyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Shared/Components/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Shared/Components/Navbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTmF2YmFyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/Shared/_ListPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MaXN0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/narmin/Projects/EmptyMVC/EmptyMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

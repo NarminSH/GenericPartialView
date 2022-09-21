@@ -1,0 +1,46 @@
+﻿@model IEnumerable<object>
+
+
+@*@foreach (var item in Model)
+{
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+            @Html.DisplayFor(modelItem => item.Model)
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">BRAND: @Html.DisplayFor(modelItem => item.Brand)</li>
+            <li class="list-group-item">PRICE: @Html.DisplayFor(modelItem => item.Price)</li>
+        </ul>
+    </div>
+}*@
+
+@foreach (var phone in Model)
+    {
+        @foreach (var item in phone.GetType().GetProperties())
+            {
+                Console.WriteLine(@item.Name);
+                Console.WriteLine(@item.GetValue(phone));
+
+            }
+
+        @*var propValue = @prop.GetValue(Model, null);*@
+    @*<div class="card" style="width: 18rem;">
+        <div class="card-header">
+            @Html.DisplayFor(modelItem => item.Model)
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">BRAND: @Html.DisplayFor(modelItem => item.Brand)</li>
+            <li class="list-group-item">PRICE: @Html.DisplayFor(modelItem => item.Price)</li>
+        </ul>
+    </div>*@
+}
+
+@*@foreach (System.Reflection.PropertyInfo prop in Model.GetType().GetProperties())
+    {
+        var propValue = @prop.GetValue(@Model);
+        <div class="form-group">
+            <label asp-for="@prop.Name" class="control-label"></label>
+            <input asp-for="@propValue" name="@prop.Name" class="form-control" />
+            <span asp-validation-for="@prop.Name" class="text-danger"></span>
+        </div>
+    }*@

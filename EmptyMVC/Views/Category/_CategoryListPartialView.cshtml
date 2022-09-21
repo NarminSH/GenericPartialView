@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Category>
+
+@foreach (var item in Model)
+{
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+            @Html.DisplayFor(modelItem => item.Name)
+        </div>
+    </div>
+}
